@@ -8,9 +8,6 @@ Install the package using pip:
 
 pip install -i https://test.pypi.org/simple/ my_calculator1
 
-python
-Copy code
-
 ## Usage
 
 ```python
@@ -36,6 +33,7 @@ calc.reset()
 
 # Methods
 - Calculator(): Initializes the calculator with a memory of 0.
+
 - add(num1: Optional[float], num2: Optional[float] = None) -> float: Adds two numbers or a single number to memory.
 
 - subtract(num1: Optional[float], num2: Optional[float] = None) -> float: Subtracts two numbers or a single number from memory.
