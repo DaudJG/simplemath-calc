@@ -44,6 +44,3 @@ calc.reset()
 - nth_root(root: int, num1: Optional[float] = None, num2: Optional[float] = None) -> float: Takes the nth root of a number (stores in memory) or takes the nth root of two numbers.
 
 - reset() -> float: Resets memory to 0.
-
-Project Notes
-This package was developed as an exercise in understanding the process of creating and publishing Python packages on the Python Package Index (PyPI).
