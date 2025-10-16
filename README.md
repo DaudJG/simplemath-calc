@@ -5,7 +5,6 @@ A simple calculator package providing basic arithmetic operations. This project 
 ## Installation
 
 Install the package using pip:
-
 pip install -i https://test.pypi.org/simple/ my_calculator1
 
 ## Usage
